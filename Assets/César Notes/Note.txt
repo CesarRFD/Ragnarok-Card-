@@ -1,0 +1,1 @@
+For some reason there is something that turns down the camera when game starts, do not affect directly cause all is in canvas but must be fixed.
